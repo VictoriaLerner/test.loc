@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AAEA;EACC;AADD,C","sources":["webpack://firstblock/./src/style.scss"],"sourcesContent":["\r\n\r\n.wp-block-blocks-course-firstblock {\r\n\tbackground-color: red;\r\n}\r\n"],"names":[],"sourceRoot":""}
